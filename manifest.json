@@ -1,0 +1,11 @@
+
+{
+  "name": "AFTER HOURS RADIO",
+  "short_name": "AFTER HOURS",
+  "description": "Your personal little music universe.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f0df",
+  "theme_color": "#f5f0df"
+}
